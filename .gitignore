@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+*.las
+*.laz
+*.tif
+*.tiff
+*.asc
+*.npz
+*.aux.xml
+
+Testoutput*/
+*_surfaces/
+
+*.docx
+*.qgz
+.~lock.*
